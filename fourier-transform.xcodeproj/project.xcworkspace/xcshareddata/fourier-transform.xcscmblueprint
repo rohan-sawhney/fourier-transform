@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "349A79CA40C59F99D9E609E030A1110A6737C379",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "349A79CA40C59F99D9E609E030A1110A6737C379" : 0,
+    "93012211585513E702385219484BD8E8D4D7E84E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2BC526C1-67ED-4575-AFB1-3A1937449691",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "349A79CA40C59F99D9E609E030A1110A6737C379" : "fourier-transform\/",
+    "93012211585513E702385219484BD8E8D4D7E84E" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "fourier-transform",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "fourier-transform.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rohan-sawhney\/fourier-transform.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "349A79CA40C59F99D9E609E030A1110A6737C379"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rohan-sawhney\/medial-axis-transform-2d.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "93012211585513E702385219484BD8E8D4D7E84E"
+    }
+  ]
+}

@@ -62,7 +62,7 @@ void filterFrequencies()
     
     for (int i = 0; i < ny; i++) {
         for (int j = 0; j < nx; j++) {
-            if ((i > low && i < high) && (j > low && j < high)) {
+            if ((i > low && i < high) || (j > low && j < high)) {
                 data(i, 2*j) = 0;
                 data(i, 2*j+1) = 0;
             }
